@@ -205,4 +205,4 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **NMACHI CIARAN** <[Vincent](https://github.com/C-Nmachi)>
+* **NMACHI CIARAN** <[Ciaci](https://github.com/C-Nmachi)>
